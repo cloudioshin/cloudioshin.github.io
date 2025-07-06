@@ -1,45 +1,45 @@
 {
   "greeting": {
-    "title": "장세모 \uD83D\uDC8D 황네모\n결혼합니다!",
+    "title": "신운수 \uD83D\uDC8D 김신해\n결혼합니다!",
     "message": "저희 결혼합니다.\n\n서로에게 알맞은 온도로 따뜻하던 우리.\n부부로서 첫걸음을 내딛는 그 설렘의 순간에\n소중한 분들을 초대합니다.",
     "host": {
       "groom": {
-        "name": "세모",
+        "name": "운수",
         "relation": "아들",
         "parents": [
           {
             "relation": "아버지",
-            "name": "장아빠"
+            "name": "신운수"
           },
           {
             "relation": "어머니",
-            "name": "이엄마"
+            "name": "이정숙"
           }
         ]
       },
       "bride": {
-        "name": "네모",
+        "name": "김신해",
         "relation": "딸",
         "parents": [
           {
             "relation": "아버지",
-            "name": "황아빠"
+            "name": "김영배"
           },
           {
             "relation": "어머니",
-            "name": "이엄마"
+            "name": "이귀남"
           }
         ]
       }
     },
-    "eventDetail": "2024년 2월 17일 (토) 14:00\n아펠가모 공덕 라로브홀"
+    "eventDetail": "2025년 4월 11일 (토) 13:00\n그랜드모먼트웨딩홀 엘라홀"
   },
   "hostInfo": [
     {
       "host": "신랑측",
       "accountInfo": [
         {
-          "name": "장세모",
+          "name": "신운수",
           "relation": "신랑",
           "bank": "카카오뱅크",
           "account": "1234-56-789012",
@@ -47,13 +47,13 @@
           "tossAccount": ""
         },
         {
-          "name": "장아빠",
+          "name": "신종선",
           "relation": "아버지",
           "bank": "농협",
           "account": "123-45-678901"
         },
         {
-          "name": "이엄마",
+          "name": "이정숙",
           "relation": "어머니",
           "bank": "농협",
           "account": "123-45-678901"
@@ -64,7 +64,7 @@
       "host": "신부측",
       "accountInfo": [
         {
-          "name": "황네모",
+          "name": "김신해",
           "relation": "신부",
           "bank": "토스뱅크",
           "account": "1234-5678-9012",
@@ -72,13 +72,13 @@
           "tossAccount": ""
         },
         {
-          "name": "황아빠",
+          "name": "김영배",
           "relation": "아버지",
           "bank": "농협",
           "account": "123-45-678901"
         },
         {
-          "name": "이엄마",
+          "name": "이귀남",
           "relation": "어머니",
           "bank": "농협",
           "account": "123-45-678901"
@@ -87,17 +87,35 @@
     }
   ],
   "mapInfo": {
-    "address1": "아펠가모 공덕 라로브홀",
-    "address2": "서울 마포구 마포대로 92\n효성해링턴스퀘어 B동 7층\n02-2197-0230",
+    "address1": "그랜드모먼트 엘라홀",
+    "address2": "부산광역시 남구 황령대로 401-9\n그랜드모먼트 1층\n051-922-2217",
     "naverMap": "https://map.naver.com/p/directions/-/14132311.1099497,4514956.9078363,%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95,1929913788,PLACE_POI/-/transit?c=15.00,0,0,0,dh",
-    "kakaoMap": "https://map.kakao.com/?map_type=TYPE_MAP&target=car&rt=,,489503,1123003&rt1=&rt2=%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95%EC%A0%90&rtIds=,630786038",
+    "kakaoMap": "<!-- * 카카오맵 - 지도퍼가기 -->
+<!-- 1. 지도 노드 -->
+<div id="daumRoughmapContainer1751796322845" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+
+<!--
+	2. 설치 스크립트
+	* 지도 퍼가기 서비스를 2개 이상 넣을 경우, 설치 스크립트는 하나만 삽입합니다.
+-->
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+
+<!-- 3. 실행 스크립트 -->
+<script charset="UTF-8">
+	new daum.roughmap.Lander({
+		"timestamp" : "1751796322845",
+		"key" : "56pswcmvwai",
+		"mapWidth" : "640",
+		"mapHeight" : "360"
+	}).render();
+</script>",
     "lat": 37.54222,
     "lon": 126.952708
   },
   "locationInfo": [
     {
       "title": "\uD83D\uDCCD 지하철",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 5·6호선 공덕역 7번 출구 (도보 2분)\n\uD83D\uDC49\uD83C\uDFFB 경의·중앙선, 공항철도 공덕역 10번 출구 (도보 30초)"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 부산 2호선 남천역 4번출구 출구 (5분간격 셔틀)"
     },
     {
       "title": "\uD83D\uDCCD 주차안내",
